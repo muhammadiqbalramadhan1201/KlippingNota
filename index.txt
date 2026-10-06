@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Kas Mulazamah</title>
+  <title>Klipping Nota</title>
   
   <!-- Link ke Manifest -->
   <link rel="manifest" href="manifest.json">
